@@ -11,5 +11,5 @@ Unofficial pragmatismo.io botserver docker image
 ## How to use this image
 
 ```console
-$ docker run -ti --rm lpicanco/botserver
+$ docker run -ti --rm -p 4242:4242 lpicanco/botserver
 ```
