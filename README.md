@@ -13,3 +13,8 @@ Unofficial pragmatismo.io botserver docker image
 ```console
 $ docker run -ti --rm -p 4242:4242 lpicanco/botserver
 ```
+
+### Running on Windows
+
+![General Bots Starting From Scrach](https://github.com/pragmatismo-io/BotServer/blob/master/docs/images/generalbots-open-core-starting-from-scratch.gif)
+
