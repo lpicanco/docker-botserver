@@ -16,5 +16,5 @@ $ docker run -ti --rm -p 4242:4242 lpicanco/botserver
 
 ### Running on Windows
 
-![General Bot running on docker hosted on Windows](https://github.com/lpicanco/botserver/blob/master/docs/images/general-bots-docker-image-loading-on-windows.gif)
+![General Bot running on docker hosted on Windows](./docs/images/general-bots-docker-image-loading-on-windows.gif)
 
