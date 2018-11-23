@@ -13,3 +13,8 @@ Unofficial pragmatismo.io botserver docker image
 ```console
 $ docker run -ti --rm -p 4242:4242 lpicanco/botserver
 ```
+
+### Running on Windows
+
+![General Bot running on docker hosted on Windows](./docs/images/general-bots-docker-image-loading-on-windows.gif)
+
